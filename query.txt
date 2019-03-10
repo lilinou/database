@@ -1,0 +1,3 @@
+UPDATE `course id` SET `Course ID`=54,`Course name`='consequat in', `Professor ID`=20 WHERE `Professor ID`=14;
+SELECT `First name` FROM `students`;
+SELECT * FROM `students` WHERE `Student ID`=5;
